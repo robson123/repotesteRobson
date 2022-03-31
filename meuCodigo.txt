@@ -1,1 +1,6 @@
 Teste de código e exercício com o git
+Adicionando python
+---
+num = int(input('Digite um número))
+print('Você digitou o número {}'.format(num))
+
